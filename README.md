@@ -5,3 +5,5 @@ There are 7 blocks in the Tetris game. These blocks can be rotated and moved. Th
 You get 100 points for filling each row. When you score 500 points you will level up and with each level the time for the blocks to fall will get shorter and shorter.
 
 If the music doesn't work, find the location of the music and paste it into the Music section of the source code of MainWindow.xaml, where it is on your computer.
+
+Made with WPF (Windows Presentation Foundation)
